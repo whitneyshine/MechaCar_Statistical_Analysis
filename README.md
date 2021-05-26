@@ -26,3 +26,9 @@ The dataset contains the results from multiple production lots. In this dataset,
 
  * The suspension coil’s PSI continuous variable across all manufacturing lots<br>
  * The following PSI metrics for each lot: mean, median, variance, and standard deviation<br>
+
+### Deliverable 3: T-Tests on Suspension Coils<br>
+Using my knowledge of R, I performed t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.<br>
+
+### Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+Using my knowledge of R, I designed a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
