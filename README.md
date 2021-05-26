@@ -17,3 +17,6 @@ This new assignment consists of three technical analysis deliverables and a prop
   * Deliverable 2: Summary Statistics on Suspension Coils<br>
   * Deliverable 3: T-Test on Suspension Coils<br>
   * Deliverable 4: Design a Study Comparing the MechaCar to the Competition<br>
+
+### Deliverable 1: Linear Regression to Predict MPG 
+The dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. Using my knowledge of R, I designed a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file.<br> 
