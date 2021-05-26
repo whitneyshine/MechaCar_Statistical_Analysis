@@ -20,3 +20,9 @@ This new assignment consists of three technical analysis deliverables and a prop
 
 ### Deliverable 1: Linear Regression to Predict MPG 
 The dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. Using my knowledge of R, I designed a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file.<br> 
+
+## Deliverable 2: Create Visualizations for the Trip Analysis<br>
+The dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using my knowledge of R, I have created a summary statistics table to show:
+
+ * The suspension coil’s PSI continuous variable across all manufacturing lots<br>
+ * The following PSI metrics for each lot: mean, median, variance, and standard deviation<br>
