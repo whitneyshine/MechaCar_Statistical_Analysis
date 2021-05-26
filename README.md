@@ -30,5 +30,5 @@ The dataset contains the results from multiple production lots. In this dataset,
 ### Deliverable 3: T-Tests on Suspension Coils<br>
 Using my knowledge of R, I performed t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.<br>
 
-### Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+### Deliverable 4: Design a Study Comparing the MechaCar to the Competition<br>
 Using my knowledge of R, I designed a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
