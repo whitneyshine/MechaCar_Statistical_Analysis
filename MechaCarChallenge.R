@@ -1,5 +1,6 @@
 #Deliverable 1: Linear Regression to Predict MPG
 library(tidyverse)
+library(jsonlite)
 
 #Download the MechaCar_mpg.csv file, and place it in the active directory for your R session.
 
@@ -24,10 +25,13 @@ summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_cleara
 #Download the Suspension_Coil.csv file, and place it in the active directory for your R session.
 
 #In your MechaCarChallenge.RScript, import and read in the Suspension_Coil.csv file as a table.
+sus_coil_info <- read.csv("Suspension_Coil.csv")
 
-#Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil's PSI column.
+#Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coils PSI column.
+total_summary <- sus_coil_info %>% summarize(Mean=mean(PSI), Median=median(PSI), Variance=var(PSI), SD=sd(PSI), .groups = "keep")
 
-#Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil's PSI column.
+#Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coils PSI column.
+lot_summary <- sus_coil_info %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI), Median=median(PSI), Variance=var(PSI), SD=sd(PSI), .groups = "keep")
 
 #Save your MechaCarChallenge.RScript file to your GitHub repository.
 
