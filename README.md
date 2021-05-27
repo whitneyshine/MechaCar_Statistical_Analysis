@@ -29,7 +29,7 @@ The dataset contains the results from multiple production lots. In this dataset,
  * The suspension coil’s PSI continuous variable across all manufacturing lots<br>
  
 ![total_summary](Resources/total_summary.png)<br><br>
- * The following PSI metrics for each lot: mean, median, variance, and standard deviation<br>
+ * The following PSI metrics for each lot: mean, median, variance, and standard deviation<br><br>
 ![lot_summary](Resources/lot_summary.png)<br><br>
 
 ### Deliverable 3: T-Tests on Suspension Coils<br>
