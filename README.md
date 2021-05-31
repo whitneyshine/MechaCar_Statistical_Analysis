@@ -69,10 +69,15 @@ Lot 1 and Lot 2 p-value statistical readings are similar to the summary p-value 
 ![lot3](Resources/lot3.png)<br><br>
 
 ### Study Design: MechaCar vs Competition<br>
-city or highway fuel efficiency<br>
+If you are anything like me, you are always curious about overall MPG as well as city/highway fuel efficiency in the car that we decide to purchase.<br>
 
-   * What metric or metrics are you going to test?
-   * What is the null hypothesis or alternative hypothesis?
-   * What statistical test would you use to test the hypothesis? And why?
-   * What data is needed to run the statistical test?
+   * <b>What metric or metrics are you going to test?</b><br>
+      Our first metric will be our MPG vs the competition.<br>
+   * <b>What is the null hypothesis or alternative hypothesis?</b><br>
+      Our null hypothesis will be represented by showing there is no statistical difference between the MPG for MechaCar and its direct competition.  Conversely, our alternative hypothesis would show that indeed there is a significant statisical difference between the competitions MPG and the MPG for MechaCar - showing MechaCar having better statisical performance.<br>
+   * <b>What statistical test would you use to test the hypothesis? And why?</b><br>
+     I believe the summary T Test will provide us with the stats for MPG overall as well as being able to compare the MPG stats per car, SUV or Truck style.<br>
+   * <b>What data is needed to run the statistical test?</b><br>
+     We will need MPG for city and highway as well as type of car (sedan, SUV, or Truck), car weight, fuel tank size, and type of required gasoline.
 
+As always, thank you for your time and attention as well as the ability to work on this project.  Have a great day and I am looking forward to working with you again in the future.
