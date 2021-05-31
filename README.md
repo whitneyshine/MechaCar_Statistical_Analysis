@@ -57,6 +57,7 @@ Using my knowledge of R, I designed a statistical study to compare performance o
   Looking at the variance result in our total summary table above in the Deliverable 2 section, we have a reading of 62.29.  That is well under our 100 pounds per square inch threshold so therefore, we have met the design specifications for the MechaCar suspension coils.  Now the lot summary table tells a little bit different of a story.  Lot 1 and Lot 2 have met the design specifications but with Lot 3 having an enormous variance reading above the threshold, it does not meet the design specifications.<br><br>
 
 ### T-Tests on Suspension Coils<br>
+![all](Resources/all.png)<br><br>
 ![lot1](Resources/lot1.png)<br><br>
 ![lot2](Resources/lot2.png)<br><br>
 ![lot3](Resources/lot3.png)<br><br>
