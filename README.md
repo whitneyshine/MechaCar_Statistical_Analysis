@@ -43,6 +43,7 @@ Using my knowledge of R, I designed a statistical study to compare performance o
 ### Linear Regression to Predict MPG<br>
 
  * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?<br>
+   Thinking critically about the variables/coefficients that provide a non-random amount of variance from our dataset would be the vehicle weight, vehicle length and ground clearance.
  * Is the slope of the linear model considered to be zero? Why or why not?<br>
  * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?<br>
 
