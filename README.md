@@ -62,7 +62,7 @@ Using my knowledge of R, I designed a statistical study to compare performance o
    ![lot_summary](Resources/lot_summary.png)<br><br>
 
 ### T-Tests on Suspension Coils<br>
-Since we are using a 95 percent confidence interval, Lot 1 and Lot 2 p-value statistical readings are similar to the summary p-value but that is not the case for Lot 3. Lot 3 can is significantly different from the summary p-value as shown in the screenshot below. <br><br>
+Lot 1 and Lot 2 p-value statistical readings are similar to the summary p-value but that is not the case for Lot 3. Lot 3 can is significantly different from the summary p-value as shown in the screenshot below. <br><br>
 ![all](Resources/all.png)<br><br>
 ![lot1](Resources/lot1.png)<br><br>
 ![lot2](Resources/lot2.png)<br><br>
