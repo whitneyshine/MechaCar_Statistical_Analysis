@@ -26,10 +26,10 @@ The dataset contains mpg test results for 50 prototype MechaCars. The MechaCar p
 ### Deliverable 2: Create Visualizations for the Trip Analysis<br>
 The dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using my knowledge of R, I have created a summary statistics table to show:
 
- * The suspension coil’s PSI continuous variable across all manufacturing lots<br>
+ * The suspension coil’s PSI continuous variable across all manufacturing lots:<br>
  
 ![total_summary](Resources/total_summary.png)<br><br>
- * The following PSI metrics for each lot: mean, median, variance, and standard deviation<br><br>
+ * The following PSI metrics for each lot: mean, median, variance, and standard deviation:<br><br>
 ![lot_summary](Resources/lot_summary.png)<br><br>
 
 ### Deliverable 3: T-Tests on Suspension Coils<br>
