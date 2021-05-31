@@ -54,7 +54,7 @@ Using my knowledge of R, I designed a statistical study to compare performance o
 ### Summary Statistics on Suspension Coils<br>
 
  * <b>The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?</b><br>
-  Looking at the variance result in our total summary table above in the Deliverable 2 section, we have a reading of 62.29.  That is well under our 100 pounds per square inch threshold so therefore, we have met the design specifications for the MechaCar suspension coils.
+  Looking at the variance result in our total summary table above in the Deliverable 2 section, we have a reading of 62.29.  That is well under our 100 pounds per square inch threshold so therefore, we have met the design specifications for the MechaCar suspension coils.  Now the lot summary table tells a little bit different of a story.  Lot 1 and Lot 2 have met the design specifications but with Lot 3 having an enormous variance reading above the threshold, it does not meet the design specifications.<br><br>
 
 ### T-Tests on Suspension Coils<br>
 ![lot1](Resources/lot1.png)<br><br>
