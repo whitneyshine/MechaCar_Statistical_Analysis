@@ -47,6 +47,7 @@ Using my knowledge of R, I designed a statistical study to compare performance o
  * <b>Is the slope of the linear model considered to be zero? Why or why not?</b><br>
    Looking at our data, the p-value is 5.35e-11.  Because of this statistic, the assumed significance level is 0.05% and our data is lower than that assumption.  This leads us to think that the slope of the linear model is not zero and such, there is enough statistical evidence to reject the null hypothesis.    
  * <b>Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?</b><br>
+   Our model has an r-squared value of 0.7149.  Rounded up, we can assume that ~72% of our predictions for MPG will be correct and because of this statistical data, we can say that our linear model is effective in predicting MPG.
 
 ![summary_linear_regression](Resources/summary_linear_regression.png)<br><br>
 
