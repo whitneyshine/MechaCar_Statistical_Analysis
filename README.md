@@ -48,7 +48,7 @@ Using my knowledge of R, I designed a statistical study to compare performance o
    Looking at our data, the p-value is 5.35e-11.  Because of this statistic, the assumed significance level is 0.05% and our data is lower than that assumption.  This leads us to think that the slope of the linear model is not zero and such, there is enough statistical evidence to reject the null hypothesis.    
  * <b>Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?</b><br>
    Our model has an r-squared value of 0.7149.  Rounded up, we can assume that ~72% of our predictions for MPG will be correct and because of this statistical data, we can say that our linear model is effective in predicting MPG.
-   ![lot_summary](Resources/lot_summary.png)<br><br>
+  
 
 
 ![summary_linear_regression](Resources/summary_linear_regression.png)<br><br>
@@ -59,6 +59,7 @@ Using my knowledge of R, I designed a statistical study to compare performance o
   Looking at the variance result in our total summary table above in the Deliverable 2 section, we have a reading of 62.29.  That is well under our 100 pounds per square inch threshold so therefore, we have met the design specifications for the MechaCar suspension coils.<br>
   ![total_summary](Resources/total_summary.png)<br><br>
   Now the lot summary table tells a little bit different of a story.  Lot 1 and Lot 2 have met the design specifications but with Lot 3 having an enormous variance reading above the threshold, it does not meet the design specifications.<br><br>
+   ![lot_summary](Resources/lot_summary.png)<br><br>
 
 ### T-Tests on Suspension Coils<br>
 ![all](Resources/all.png)<br><br>
